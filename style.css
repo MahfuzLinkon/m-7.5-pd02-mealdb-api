@@ -1,0 +1,24 @@
+#meal-details-container {
+    display: none;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+
+.meal-details {
+    width: 500px;
+    padding: 30px;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.meal-details img {
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px gray;
+}
+
+.meal-details h3 {
+    margin: 20px 0;
+}
